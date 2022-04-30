@@ -1,0 +1,15 @@
+C:\data\_js\_s3\c#_1\example_06\bin\Debug\net6.0\example_06.exe
+C:\data\_js\_s3\c#_1\example_06\bin\Debug\net6.0\example_06.deps.json
+C:\data\_js\_s3\c#_1\example_06\bin\Debug\net6.0\example_06.runtimeconfig.json
+C:\data\_js\_s3\c#_1\example_06\bin\Debug\net6.0\example_06.dll
+C:\data\_js\_s3\c#_1\example_06\bin\Debug\net6.0\example_06.pdb
+C:\data\_js\_s3\c#_1\example_06\obj\Debug\net6.0\example_06.csproj.AssemblyReference.cache
+C:\data\_js\_s3\c#_1\example_06\obj\Debug\net6.0\example_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\_js\_s3\c#_1\example_06\obj\Debug\net6.0\example_06.AssemblyInfoInputs.cache
+C:\data\_js\_s3\c#_1\example_06\obj\Debug\net6.0\example_06.AssemblyInfo.cs
+C:\data\_js\_s3\c#_1\example_06\obj\Debug\net6.0\example_06.csproj.CoreCompileInputs.cache
+C:\data\_js\_s3\c#_1\example_06\obj\Debug\net6.0\example_06.dll
+C:\data\_js\_s3\c#_1\example_06\obj\Debug\net6.0\refint\example_06.dll
+C:\data\_js\_s3\c#_1\example_06\obj\Debug\net6.0\example_06.pdb
+C:\data\_js\_s3\c#_1\example_06\obj\Debug\net6.0\example_06.genruntimeconfig.cache
+C:\data\_js\_s3\c#_1\example_06\obj\Debug\net6.0\ref\example_06.dll
